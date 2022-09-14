@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceyhun</h1>
-<h3 align="center">A SDET from Turkiye</h3>
+<h3 align="center">SDET from Turkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
