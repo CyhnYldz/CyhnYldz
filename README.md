@@ -2,11 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif"  />
+<br clear="both">
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="47" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="35" width="47" alt="cucumber logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="35" width="47" alt="jenkins logo"  />
@@ -32,4 +30,9 @@
 </div>
 
 ###
-Profile Readme Generator
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif"  />
+</div>
+
+###
