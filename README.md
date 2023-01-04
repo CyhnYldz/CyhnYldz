@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="35" width="47" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="47" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" width="47" alt="mysql logo"  />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="35" width="47" alt="postman logo"  />
   
   
    
