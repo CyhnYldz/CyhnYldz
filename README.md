@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-
+<h3><p align="center">-----My Languages and Tools-----</p></h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="47" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="47" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" width="47" alt="mysql logo"  />
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="35" width="47" alt="postman logo"  />
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="restassured" width="40" height="40"/>
   
   
    
@@ -39,9 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&username=CyhnYldz" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&username=CyhnYldz" height="150" alt="languages graph"  />
 </div>
-
+<br>
+<br>
 
 ###
+<h3><p align="center">-----Where to Find Me-----</p></h3>
 <div align="center">
 <a href="https://github.com/CyhnYldz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,6 +56,9 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>   -->
   </div>
+
+<br>
+<br>
 
 <div align="center">
   <img height="200" src="https://c.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif"  />
