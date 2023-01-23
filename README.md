@@ -40,7 +40,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&username=CyhnYldz" height="150" alt="languages graph"  />
 </div>
 
+
 ###
+<div align="center">
+<a href="https://github.com/https://github.com/CyhnYldz" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cyhnqa/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/https://medium.com/@ceyhungs5" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+  </div>
 
 <div align="center">
   <img height="200" src="https://c.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif"  />
@@ -50,5 +62,6 @@
 <!-- <div align="center">
   <img height="400" src="https://avatars.githubusercontent.com/u/111140617?v=4"  />
 </div> -->
+
 
 ###
